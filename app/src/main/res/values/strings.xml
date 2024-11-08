@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyTestapp</string>
+    <string name="test_string">Hallo das ist ein Test String</string>
+    <string name="startpage_introduction">Hallo Android, mein Name ist Julius</string>
+    <string name="title_activity_button_screen">buttonScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

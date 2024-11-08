@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyTestapp</string>
+    <string name="test_string">Hola esta es una cadena de prueba</string>
+    <string name="startpage_introduction">Hola Android, mi nombre es Julius</string>
+</resources>
